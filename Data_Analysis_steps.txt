@@ -1,0 +1,53 @@
+EDA Steps
+
+Step-1 :  Read the data
+
+Step-2 :  Data quick checks
+          dtypes  columns shape size info
+
+Step-3 :  Convert categorical columns
+          numerical columns names separately
+
+Step-4 :  You need to fill the missing values
+
+Step-5 :  Categorical data analysis
+          Unique
+          nunique
+          value counts
+          bar charts
+          Count plot
+          Pie chart
+
+Step-6 :  Numerical column analysis
+          Describe functions(mean,median , etc)
+          Histogram
+          Data skewness
+
+Step-7 :  Box plot creation
+          Outlier analysis
+
+Step-8 :  Transformation methods
+
+Step-9 :  Encoding methods
+          map
+          np.where
+          LabelEncoder
+          onehot encoder
+
+Step-10 : Scaling mathods(Standardization)
+          Z
+          minmax scalar
+
+
+
+===========================================================
+
+columns -> features -> variables
+Columns are of two types
+Input column                 Output column
+Independent                  Dependent
+                             Target columns
+
+=============================================================
+Rows -> Fields -> Instances -> Tuples
+Values
